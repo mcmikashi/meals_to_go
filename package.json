@@ -11,7 +11,10 @@
     "lint": "eslint . --fix"
   },
   "dependencies": {
+    "@expo-google-fonts/merienda": "^0.2.2",
+    "@expo-google-fonts/montserrat": "^0.2.2",
     "expo": "^47.0.8",
+    "expo-font": "~11.0.1",
     "expo-status-bar": "~1.4.2",
     "jest": "^26.6.3",
     "jest-expo": "^47.0.1",

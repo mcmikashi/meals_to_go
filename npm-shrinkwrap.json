@@ -8,7 +8,10 @@
       "name": "mealstogo",
       "version": "1.0.0",
       "dependencies": {
+        "@expo-google-fonts/merienda": "^0.2.2",
+        "@expo-google-fonts/montserrat": "^0.2.2",
         "expo": "^47.0.8",
+        "expo-font": "~11.0.1",
         "expo-status-bar": "~1.4.2",
         "jest": "^26.6.3",
         "jest-expo": "^47.0.1",
@@ -1992,6 +1995,16 @@
       "funding": {
         "url": "https://github.com/sponsors/sindresorhus"
       }
+    },
+    "node_modules/@expo-google-fonts/merienda": {
+      "version": "0.2.2",
+      "resolved": "https://registry.npmjs.org/@expo-google-fonts/merienda/-/merienda-0.2.2.tgz",
+      "integrity": "sha512-IMkVoIhZXnOLjbXum9VKBGYEJuUdcKCqIweReMR2J9VgzvvXsr/oodRN0nEqfDtLUKacA50cgN7ExhbelZxFyA=="
+    },
+    "node_modules/@expo-google-fonts/montserrat": {
+      "version": "0.2.2",
+      "resolved": "https://registry.npmjs.org/@expo-google-fonts/montserrat/-/montserrat-0.2.2.tgz",
+      "integrity": "sha512-kpK++6mnyPPNVuZQ5ScU/YmvNsbDQGNgxwPgkmAKFrctAhfwg4KxotmmuNnn2ZaKLPtGYjP8/M8JIO3/tAm9ag=="
     },
     "node_modules/@expo/bunyan": {
       "version": "4.0.0",
@@ -20660,6 +20673,16 @@
           "dev": true
         }
       }
+    },
+    "@expo-google-fonts/merienda": {
+      "version": "0.2.2",
+      "resolved": "https://registry.npmjs.org/@expo-google-fonts/merienda/-/merienda-0.2.2.tgz",
+      "integrity": "sha512-IMkVoIhZXnOLjbXum9VKBGYEJuUdcKCqIweReMR2J9VgzvvXsr/oodRN0nEqfDtLUKacA50cgN7ExhbelZxFyA=="
+    },
+    "@expo-google-fonts/montserrat": {
+      "version": "0.2.2",
+      "resolved": "https://registry.npmjs.org/@expo-google-fonts/montserrat/-/montserrat-0.2.2.tgz",
+      "integrity": "sha512-kpK++6mnyPPNVuZQ5ScU/YmvNsbDQGNgxwPgkmAKFrctAhfwg4KxotmmuNnn2ZaKLPtGYjP8/M8JIO3/tAm9ag=="
     },
     "@expo/bunyan": {
       "version": "4.0.0",
